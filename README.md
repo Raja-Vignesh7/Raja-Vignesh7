@@ -7,7 +7,7 @@
 
 - 💞️ I’m looking to collaborate on exciting projects in AI and Machine Learning.
   
-- 📫 How to reach me **bvrvg2022@gmail.com or www.linkedin.com/in/raja-vignesh742004**
+- 📫 How to reach me **rajavigneshgoud2022@gmail.com or www.linkedin.com/in/raja-vignesh742004**
 
 - 😄 Pronouns **He/Him**
 
