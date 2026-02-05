@@ -1,6 +1,7 @@
 # 💫 About Me:
-Hi 👋, I'm Raja-Vignesh<br>👯 I’m looking to collaborate on AI/ML Based Projects<br>🌱 I’m currently learning NLP<br>😄 Pronouns: He/him
-
+Hi 👋, I'm Raja-Vignesh<br>🔭 I’m currently looking for Data Science ,AI Engineering, Backend Development jobs<br>
+👯 I’m looking to collaborate on ML related projects<br>
+🌱 I’m currently learning Gen AI, LLM’s<br>😄 Pronouns: He/him
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raja-vignesh742004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajavigneshgoud2022@gmail.com) 
